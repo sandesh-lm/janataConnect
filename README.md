@@ -200,7 +200,7 @@ Then update the `admin_users` table with the new hash.
 
 ### Issue Reporting Portal
 
-![Issue Reporting](screenshots/issue_reporting.png)
+![Issue Reporting](screenshots/report_issue.png)
 
 ### Admin Dashboard
 
