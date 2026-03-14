@@ -192,6 +192,20 @@ Then update the `admin_users` table with the new hash.
 
 ---
 
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/home_page.png)
+
+### Issue Reporting Portal
+
+![Issue Reporting](screenshots/issue_reporting.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin_login.png)
+
 ## 🔐 Security Notes
 
 - Config folder is protected by `.htaccess` (deny all)
